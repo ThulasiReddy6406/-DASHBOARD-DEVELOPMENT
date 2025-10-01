@@ -52,4 +52,4 @@ Insights Generation 💡: Highlighted business trends, performance gaps, and gro
 🎨 User-friendly Design with clean, modern visuals.
 
 output :- 
-
+<img width="970" height="549" alt="Image" src="https://github.com/user-attachments/assets/08063695-57ff-4398-bd21-020efaddea29" />
